@@ -8,9 +8,9 @@
 
 Windows Media Player is a software act as media player that plays video, image, audio views widget, plugin on smart screen devices, especially on television.
 
-Windows Media Player supports browsing on variety media sources, with high quality in low latency.
-
 ![image.png](image.png)
+
+Windows Media Player supports browsing on variety media sources, with high quality in low latency.
 
 Windows Media Player concept is playing many granted widgets in one screen that means it support basic widgets like audio, music, image, video. It can play album image with music or mute video with music.
 
@@ -21,6 +21,8 @@ Windows Media Player widget includes clock, watch widget, support language widge
 ![image.png](image%202.png)
 
 Windows Media Player tries to become default media player application on smart television in long term.
+
+![image.png](image%203.png)
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
